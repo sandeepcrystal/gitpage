@@ -1,0 +1,9 @@
+export class Loan {
+    customer: object;
+    payment: object[];
+    terms: number;
+    totalInterest: number;
+    interestRate: number;
+    monthlyAmortization: number;
+
+}
